@@ -1,0 +1,66 @@
+@Font-face {
+    Font-family: "Font-KittenSlantTrial";
+    src: url("../fonts/KittenSlantTrial.eot?") format("eot"),
+    url("../fonts/KittenSlantTrial.woff") format("woff"),
+    url("../fonts/KittenSlantTrial.ttf") format("truetype"),
+    url("../fonts/KittenSlantTrial.svg") format("svg");
+    Font-weight: normal;
+    Font-style: normal;
+}
+
+@Font-face {
+    Font-family: "Font-KittenSwashTrial";
+    src: url("../fonts/KittenSwashTrial.eot?") format("eot"),
+    url("../fonts/KittenSwashTrial.woff") format("woff"),
+    url("../fonts/KittenSwashTrial.ttf") format("truetype"),
+    url("../fonts/KittenSwashTrial.svg") format("svg");
+    Font-weight: normal;
+    Font-style: normal;
+}
+
+@Font-face {
+    Font-family: "Font-Raleway-ExtraLight";
+    src: url("../fonts/Raleway-ExtraLight.eot?") format("eot"),
+    url("../fonts/Raleway-ExtraLight.woff") format("woff"),
+    url("../fonts/Raleway-ExtraLight.ttf") format("truetype"),
+    url("../fonts/Raleway-ExtraLight.svg") format("svg");
+    Font-weight: normal;
+    Font-style: normal;
+}
+@Font-face {
+    Font-family: "Font-Raleway-Light";
+    src: url("../fonts/Raleway-Light.eot?") format("eot"),
+    url("../fonts/Raleway-Light.woff") format("woff"),
+    url("../fonts/Raleway-Light.ttf") format("truetype"),
+    url("../fonts/Raleway-Light.svg") format("svg");
+    Font-weight: normal;
+    Font-style: normal;
+}
+
+@Font-face {
+    Font-family: "Font-Raleway-Medium";
+    src: url("../fonts/Raleway-Medium.eot?") format("eot"),
+    url("../fonts/Raleway-Medium.woff") format("woff"),
+    url("../fonts/Raleway-Medium.ttf") format("truetype"),
+    url("../fonts/Raleway-Medium.svg") format("svg");
+    Font-weight: normal;
+    Font-style: normal;
+}
+@Font-face {
+    Font-family: "Font-Raleway-Regular";
+    src: url("../fonts/Raleway-Regular.eot?") format("eot"),
+    url("../fonts/Raleway-Regular.woff") format("woff"),
+    url("../fonts/Raleway-Regular.ttf") format("truetype"),
+    url("../fonts/Raleway-Regular.svg") format("svg");
+    Font-weight: normal;
+    Font-style: normal;
+}
+@Font-face {
+    Font-family: "Font-Raleway-Thin";
+    src: url("../fonts/Raleway-Thin.eot?") format("eot"),
+    url("../fonts/Raleway-Thin.woff") format("woff"),
+    url("../fonts/Raleway-Thin.ttf") format("truetype"),
+    url("../fonts/Raleway-Thin.svg") format("svg");
+    Font-weight: normal;
+    Font-style: normal;
+}
